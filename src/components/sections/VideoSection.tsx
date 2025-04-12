@@ -25,7 +25,7 @@ export default function VideoSection() {
           >
             <iframe
               className="absolute top-0 left-0 w-full h-full"
-              src="https://www.youtube.com/embed/VIDEO_ID_1"
+              src="https://youtu.be/h3WRg-Uw6O8?si=qUY9rZhtMaEhuD9r"
               title="First Video"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
