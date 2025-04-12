@@ -74,7 +74,7 @@ export default function ParticleBackground() {
               enable: true,
               value_area: 800,
               factor: isMobile ? 1000 : 2000
-            },
+            } as any,
             value: isMobile ? 50 : 100,
           },
           opacity: {
