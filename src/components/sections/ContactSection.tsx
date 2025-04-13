@@ -210,7 +210,7 @@ export default function ContactSection() {
                   <FaGithub className="w-8 h-8" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/nitin-kumar-reddy"
+                  href="https://www.linkedin.com/in/nitinkumar-reddy/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
@@ -231,14 +231,13 @@ export default function ContactSection() {
               </button>
             </div>
 
-            
-{/*             <div className="mt-8">
+            <div className="mt-8">
               <button
                 className="w-full px-6 py-3 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors flex items-center justify-center space-x-2"
               >
                 <span>Download Resume</span>
               </button>
-            </div> */}
+            </div>
           </motion.div>
         </div>
       </div>
