@@ -90,7 +90,7 @@ export default function Footer() {
                 <FaGithub className="w-6 h-6" />
               </motion.a>
               <motion.a
-                href="https://www.linkedin.com/in/nitin-kumar-reddy"
+                href="https://www.linkedin.com/in/nitinkumar-reddy/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400"
