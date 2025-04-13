@@ -116,7 +116,7 @@ export default function Header() {
             GitHub
           </motion.a>
           <motion.a
-            href="https://linkedin.com/in/nitin-kumar-reddy"
+            href="https://www.linkedin.com/in/nitinkumar-reddy/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark:hover:text-white transition-colors"
@@ -152,7 +152,7 @@ export default function Header() {
             <a href="#contact" className="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark:hover:text-white transition-colors px-4 py-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-800">Contact</a>
             <div className="flex flex-col space-y-2 px-4 py-2 border-t border-gray-200 dark:border-gray-700">
               <a href="https://github.com/Nitin848" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark:hover:text-white transition-colors">GitHub</a>
-              <a href="https://linkedin.com/in/nitin-kumar-reddy" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark:hover:text-white transition-colors">LinkedIn</a>
+              <a href="https://www.linkedin.com/in/nitinkumar-reddy/" target="_blank" rel="noopener noreferrer" className="text-gray-700 dark:text-gray-200 hover:text-gray-900 dark:hover:text-white transition-colors">LinkedIn</a>
             </div>
           </nav>
         </motion.div>
