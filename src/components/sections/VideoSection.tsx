@@ -25,8 +25,8 @@ export default function VideoSection() {
           >
             <iframe
               className="absolute top-0 left-0 w-full h-full"
-              src="https://youtu.be/h3WRg-Uw6O8?si=qUY9rZhtMaEhuD9r"
-              title="First Video"
+              src="https://www.youtube.com/embed/h3WRg-Uw6O8"
+              title="Automation  ai calling agent"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             />
@@ -41,8 +41,8 @@ export default function VideoSection() {
           >
             <iframe
               className="absolute top-0 left-0 w-full h-full"
-              src="https://www.youtube.com/embed/VIDEO_ID_2"
-              title="Second Video"
+              src="https://www.youtube.com/embed/v0t7G2RCmgo"
+              title="Automation for social media"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowFullScreen
             />
