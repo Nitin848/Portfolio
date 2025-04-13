@@ -117,7 +117,7 @@ export default function AboutSection() {
                     <FaGithub className="w-5 h-5" />
                   </a>
                   <a 
-                    href="https://linkedin.com/in/nitin-kumar-reddy" 
+                    href="https://www.linkedin.com/in/nitinkumar-reddy/" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="p-2 bg-gray-100 dark:bg-gray-700 rounded-full hover:bg-gray-200 dark:hover:bg-gray-600 transition-colors"
